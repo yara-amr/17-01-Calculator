@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(5, 5, 60);
+    background-image: radial-gradient(rgb(206, 204, 255) 1px, transparent 0);
+    background-size: 100px 100px;
+	background-position:center;
+	
+}
+
+.calc{
+    position: absolute;
+    top:25vh;
+    left:65vh;
+}
+
+
+.form .txt{
+    width: 30vw;
+    height: 10vh;
+    font-size:xx-large;
+    padding: 3vh;
+    background-color: rgb(224, 205, 255);
+    color:black;
+}
+
+.form .btn{
+    width:7vw;
+    height: 10vh;
+    margin-top:2vh;
+    margin-right: 0.8vh;
+    font-size: x-large;
+    background-color:rgb(159, 114, 200);
+    color:black;
+}
